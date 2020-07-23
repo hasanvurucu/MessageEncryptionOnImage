@@ -6,6 +6,8 @@
 int decryptionFunction();
 void arraySortMethod(int sizeOfStr);
 
+
+
 int randValues[255];
 char messageArr[255];
 
