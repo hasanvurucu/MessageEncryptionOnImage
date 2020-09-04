@@ -1,4 +1,4 @@
-# PasswordEncryptionOnImage
+# MessageEncryptionOnImage
 A simple png image processing & message encryption project on C
 
 This project was a school assignment. File names must be compared to the name in the code. Before running program you must check it
